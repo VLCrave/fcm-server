@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609330453287",
+    "project_id": "vlcrave-express",
+    "storage_bucket": "vlcrave-express.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609330453287:android:8754b96566bfed6a18e702",
+        "android_client_info": {
+          "package_name": "com.vlcrave.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609330453287-gj8nodmanvfgm40v5i7p89kkh295an8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vlcrave.app",
+            "certificate_hash": "81b414ee84d0f900cac059dd08796d3ecb82074e"
+          }
+        },
+        {
+          "client_id": "609330453287-f8tv5ggckhfp1g9bmq3nrqe1vpi3mij3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5afiouWktpL3P4xoJqPCISem7dpRHQFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609330453287-f8tv5ggckhfp1g9bmq3nrqe1vpi3mij3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
